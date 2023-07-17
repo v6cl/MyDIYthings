@@ -2,5 +2,7 @@
 
 
 m3 spacer bolts x 4
+
 m3 bolts x 4
+
 m3 insert nut x 4
