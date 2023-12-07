@@ -1,3 +1,3 @@
 # My DIY Projects.
 
-TEST.
+TEST. CLI PRACTICE.
