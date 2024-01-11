@@ -10,6 +10,8 @@ Please leave enough wire length to accommodate the amount of movement of the dra
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/25bb0abf-3571-4ca4-aac9-8fa917aa8be7)
 
+!!!!!!!!!!Note the magnet polarity direction. It should be in the direction of drawer and pull.!!!!!!!!!
+
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/4c27805f-ceb4-4a22-9500-ef098c596d1c)
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/041a5cf1-ee05-4bb9-927f-975b16751ed8)
