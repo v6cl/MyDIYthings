@@ -19,3 +19,9 @@ Please leave enough wire length to accommodate the amount of movement of the dra
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/0b90ecea-b628-42b0-b4d7-cfa4288fdcd2)
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/aded593c-cec3-495c-a2eb-24e14314d286)
+
+![image](https://github.com/v6cl/MyDIYthings/assets/16078263/9e54aa3c-3238-4159-9f30-d449546ccce3)
+
+![image](https://github.com/v6cl/MyDIYthings/assets/16078263/4ed89111-6f5b-498e-a1e6-cbd1c167bcd7)
+
+![image](https://github.com/v6cl/MyDIYthings/assets/16078263/1d44f7ff-5dee-422b-868d-31c5357ecabe)
