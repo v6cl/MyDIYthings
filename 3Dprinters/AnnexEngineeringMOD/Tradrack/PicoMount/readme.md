@@ -16,6 +16,8 @@ Please leave enough wire length to accommodate the amount of movement of the dra
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/041a5cf1-ee05-4bb9-927f-975b16751ed8)
 
+Use M2.5 bolt for skr pico.
+
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/0b90ecea-b628-42b0-b4d7-cfa4288fdcd2)
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/aded593c-cec3-495c-a2eb-24e14314d286)
