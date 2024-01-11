@@ -1,12 +1,18 @@
-![image](https://github.com/v6cl/MyDIYthings/assets/16078263/97a2c738-f1b5-4e9e-963a-4c10588a5218)
 
 # Skr Pico mount for Annex tradrack
+
+![image](https://github.com/v6cl/MyDIYthings/assets/16078263/97a2c738-f1b5-4e9e-963a-4c10588a5218)
 
 ## Like the Nebula case, it has a drawer system.
 
 Please leave enough wire length to accommodate the amount of movement of the drawer.
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/9a988b1d-a9dd-4b55-b460-58c3d6b28fc2)
+
+
+## Assembly manual 
+
+---
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/25bb0abf-3571-4ca4-aac9-8fa917aa8be7)
 
