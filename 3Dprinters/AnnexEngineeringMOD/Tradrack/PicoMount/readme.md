@@ -1,6 +1,9 @@
 
 # Skr Pico mount for Annex tradrack
 
+insert nut M2.5 OD4mm Length 3mm
+<https://ko.aliexpress.com/item/1005003582355741.html?spm=a2g0o.order_list.order_list_main.35.414c140fCWqukq&gatewayAdapt=glo2kor>
+
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/97a2c738-f1b5-4e9e-963a-4c10588a5218)
 
 ## Like the Nebula case, it has a drawer system.
