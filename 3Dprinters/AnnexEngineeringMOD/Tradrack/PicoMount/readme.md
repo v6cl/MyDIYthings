@@ -1,7 +1,19 @@
 
 # Skr Pico mount for Annex tradrack
 
-insert nut M2.5 OD4mm Length 3mm
+## BOM
+
+4 X Insert nut M2.5 OD4mm Length 3mm
+
+6 X Insert nut M3 OD5mm Length 4mm
+
+4 X screw (maybe 2mm)
+
+2 X Round magnet OD6mm T3.0mm
+
+some PTFE tube OD4mm ID2mm
+
+and some M3 bolts
 
 <https://ko.aliexpress.com/item/1005003582355741.html?spm=a2g0o.order_list.order_list_main.35.414c140fCWqukq&gatewayAdapt=glo2kor>
 
