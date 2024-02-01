@@ -17,6 +17,9 @@ some PTFE tube OD4mm ID2mm
 
 and some M3 bolts
 
+4010 Blower fan
+
+SKR Pico board
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/97a2c738-f1b5-4e9e-963a-4c10588a5218)
 
