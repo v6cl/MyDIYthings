@@ -1,6 +1,12 @@
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/186e7435-38c4-4dc8-a853-3de3d8120f61)
 
-Test video
+# Winch Rack
+
+Standalone motor powered auto rewinder.
+
+Operates at 5v voltage. (Can use 5v pin on control board or external power source)
+
+## Test video
 
 Visit https://www.youtube.com/watch?v=kO5R-0rNxZA
 
