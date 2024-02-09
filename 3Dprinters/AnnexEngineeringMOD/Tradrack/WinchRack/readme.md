@@ -1,8 +1,7 @@
+![image](https://github.com/v6cl/MyDIYthings/assets/16078263/186e7435-38c4-4dc8-a853-3de3d8120f61)
 
-![image](https://github.com/v6cl/MyDIYthings/assets/16078263/75abb04e-b154-4895-a06c-4b2c0c776466)
+test video
 
-test in progress.....
+Visit https://www.youtube.com/watch?v=kO5R-0rNxZA
 
-prototype test video
-
-<https://www.youtube.com/watch?v=88h-S2Ym1e8>
+Visit https://www.youtube.com/shorts/trHfZH3sDRs
