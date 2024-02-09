@@ -34,3 +34,5 @@ m3 bolts
 m5 bolt 15mm x 2
 
 m2 self tapping screw 8~10mm x 2
+
+6mm collet x 1
