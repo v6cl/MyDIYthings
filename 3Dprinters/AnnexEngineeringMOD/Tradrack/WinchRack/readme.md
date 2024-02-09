@@ -6,6 +6,8 @@ Standalone motor powered auto rewinder.
 
 Operates at 5v voltage. (Can use 5v pin on control board or external power source)
 
+5 volts voltage, nothing else required.
+
 (Example setting)
 
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/47655fdf-1641-4b0c-b35e-7289339c23c0)
