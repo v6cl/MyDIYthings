@@ -50,4 +50,4 @@ m5 bolt 15mm x 2
 
 m2 self tapping screw 8~10mm x 2
 
-6mm collet x 1
+6mm collet x 1 (https://zrr.kr/7WdG)
