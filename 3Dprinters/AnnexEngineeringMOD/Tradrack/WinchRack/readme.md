@@ -40,7 +40,7 @@ mosfet switch 1ch x 1 (https://zrr.kr/TrOc)
 
 silicon ring x 1 (https://zrr.kr/E5Dk)
 
-ptfe tube 3x4 or 2x4 
+PTFE tube 3x4 or 2x4 
 
 m3 insert nut (OD 5mm, L 4mm)
 
@@ -50,4 +50,4 @@ m5 bolt 15mm x 2
 
 m2 self tapping screw 8~10mm x 2
 
-6mm collet x 1 (https://zrr.kr/7WdG)
+6mm collet for 4mm PTFE Tube x 1 (https://zrr.kr/7WdG)
