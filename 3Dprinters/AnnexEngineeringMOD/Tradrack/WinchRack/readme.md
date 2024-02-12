@@ -50,4 +50,10 @@ m4 bolt 15mm x 2
 
 m2 self tapping screw 8~10mm x 2
 
+# unresolved problems
+
+- Problem with new filament spools coming loose and tangling
+
+- A state in which the motor rotates infinitely when rewinding after filament is removed from an almost completely used filament spool.
+
 6mm collet for 4mm PTFE Tube x 1 (https://zrr.kr/7WdG)
