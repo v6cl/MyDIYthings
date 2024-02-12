@@ -55,6 +55,7 @@ m2 self tapping screw 8~10mm x 2
 # unresolved problems
 
 - Problem with new filament spools coming loose and tangling
+  (Temporary solution set filament_max_accel: 150  in [trad_rack])
 
 - A state in which the motor rotates infinitely when rewinding after filament is removed from an almost completely used filament spool.
 
