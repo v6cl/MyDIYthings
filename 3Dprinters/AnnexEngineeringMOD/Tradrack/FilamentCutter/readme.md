@@ -14,7 +14,7 @@ You need to change to tradrack's wip-inline-filament-cutter branch.
 
 ```
 cd ~
-./trad_rack_klippy_module/Klipper_Stuff/klippy_module/install.sh <branch_name>
+./trad_rack_klippy_module/Klipper_Stuff/klippy_module/install.sh wip-inline-filament-cutter
 ```
 
 in moonraker.conf
