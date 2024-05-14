@@ -8,7 +8,14 @@ X-acto no.11 Blade
 
 ## config
 
-You need to change to tradrack's wip-inline-filament-cutter branch. (https://github.com/Annex-Engineering/TradRack/blob/main/docs/klipper/Installation.md)
+You need to change to tradrack's wip-inline-filament-cutter branch. 
+
+(https://github.com/Annex-Engineering/TradRack/blob/main/docs/klipper/Installation.md)
+
+```
+cd ~
+./trad_rack_klippy_module/Klipper_Stuff/klippy_module/install.sh <branch_name>
+```
 
 in moonraker.conf
 
