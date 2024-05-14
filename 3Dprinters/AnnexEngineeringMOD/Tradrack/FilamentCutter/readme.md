@@ -42,4 +42,8 @@ cutter_retract_speed: 300 # Please write down the value that suits you.
 toolhead_sense_speed: 10 # Please write down the value that suits you.
 ```
 
+> [!CAUTION]
+>We recommend that the length of the filament remaining after cutting is 20 to 30 mm. (excluding extended length)
+If it is too short, it will be light and will not fall, and if it is longer than the cutter, it will not be discharged.
+
 ![image](https://github.com/v6cl/MyDIYthings/assets/16078263/e37e5de8-b3ff-425e-88ad-d752ddb898a9)
