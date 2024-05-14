@@ -37,7 +37,7 @@ cutter_servo_cut_angle: 0
 cutter_servo_reset_angle: 145 # init angle
 cutter_servo_wait_ms: 1000
 cutter_retract_length: 0
-cutter_bowden_length: 580 # Please write down the value that suits you.
+cutter_bowden_length: 580 # Distance of Bowden tube from head to cutter.
 cutter_retract_speed: 300 # Please write down the value that suits you.
 toolhead_sense_speed: 10 # Please write down the value that suits you.
 ```
